@@ -4,7 +4,9 @@
 - JUnit (TDD)
 - Github
 - Jenkins
-- TOMCAT
+- SpringBoot 2.0.2.RELEASE
+    - Spring Boot 2.0.2.RELEASE requires Java 8 or 9 and Spring Framework 5.0.6.RELEASE or above. 
+    - Explicit build support is provided for Maven 3.2+ and Gradle 4  
 
 # Machine Setup Instructions:
 
@@ -15,8 +17,8 @@
     - 32 bit OS : jdk-8u171-windows-i586.exe
 
 ### Maven Setup
-- [Maven Download](http://apache.mirrors.pair.com/maven/binaries/)
-    - apache-maven-3.2.2-bin.zip 
+- [Maven Download](http://apache.claz.org/maven/maven-3/3.5.3/binaries/)
+    - apache-maven-3.5.3-bin.zip  
 - [Install Instructions](https://maven.apache.org/install.html)
 
 ### IDE Setup [ IntelliJ Community Edition ]
@@ -28,8 +30,9 @@
 ### Jenkins Setup [ Continuous Integration Build Tool ]
 - [Jenkins Download & Install Instructions](https://jenkins.io/doc/pipeline/tour/getting-started/)
 
-### TOMCAT Setup
-- [TOMCAT Download](https://tomcat.apache.org/download-80.cgi)
+### SpringBoot 
+- [Spring Boot Reference Guide 2.0.2.RELEASE](https://docs.spring.io/spring-boot/docs/2.0.2.RELEASE/reference/htmlsingle/)
+
 
 
 
