@@ -1,2 +1,2 @@
-# Courses
+# courses
 training material
